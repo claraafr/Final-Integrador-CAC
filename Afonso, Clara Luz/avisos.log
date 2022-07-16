@@ -1,0 +1,844 @@
+[2022-06-2021:58:31] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2021:58:31] [ INFO ] [OdontologoDaoH2:160] Conexión establecida!!
+[2022-06-2022:10:44] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2022:10:44] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2022:20:45] [ INFO ] [OdontologoDaoH2:25] Guardando el odontologo: Odontologo{id=0, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2022:21:50] [ INFO ] [OdontologoDaoH2:25] Guardando el odontologo: Odontologo{id=0, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2022:23:06] [ INFO ] [OdontologoDaoH2:25] Guardando el odontologo: Odontologo{id=0, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2022:23:07] [ INFO ] [OdontologoDaoH2:25] Guardando el odontologo: Odontologo{id=0, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2022:23:07] [ INFO ] [OdontologoDaoH2:25] Guardando el odontologo: Odontologo{id=0, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2022:25:39] [ INFO ] [OdontologoDaoH2:25] Guardando el odontologo: Odontologo{id=0, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2022:25:39] [ INFO ] [OdontologoDaoH2:25] Guardando el odontologo: Odontologo{id=0, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2022:25:39] [ INFO ] [OdontologoDaoH2:25] Guardando el odontologo: Odontologo{id=0, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2022:32:01] [ INFO ] [OdontologoDaoH2:25] Guardando el odontologo: Odontologo{id=0, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2022:46:07] [ INFO ] [OdontologoDaoH2:25] Guardando el odontologo: Odontologo{id=0, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2022:46:35] [ INFO ] [OdontologoDaoH2:25] Guardando el odontologo: Odontologo{id=0, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2022:54:27] [ INFO ] [OdontologoDaoH2:25] Guardando el odontologo: Odontologo{id=0, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2022:54:27] [ INFO ] [OdontologoDaoH2:37] nuevo odontologo ingresado: Odontologo{id=1, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2022:54:27] [ INFO ] [OdontologoDaoH2:54] eliminando un odontologo
+[2022-06-2022:54:27] [ INFO ] [OdontologoDaoH2:60] se elimino el odontologo con id: 1
+[2022-06-2022:54:27] [ INFO ] [OdontologoDaoH2:112] Buscando el medicamento con id: 1
+[2022-06-2022:54:27] [ INFO ] [OdontologoDaoH2:121] buscando un odontologo con id: 1
+[2022-06-2023:00:30] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2023:00:30] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2023:00:52] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2023:00:52] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2023:24:30] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2023:24:31] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2023:24:37] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2023:24:37] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2023:24:55] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2023:24:55] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2023:41:29] [ INFO ] [OdontologoDaoH2:25] Guardando el odontologo: Odontologo{id=0, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2023:41:29] [ INFO ] [OdontologoDaoH2:37] nuevo odontologo ingresado: Odontologo{id=2, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2023:41:29] [ INFO ] [OdontologoDaoH2:54] eliminando un odontologo
+[2022-06-2023:41:29] [ INFO ] [OdontologoDaoH2:60] se elimino el odontologo con id: 2
+[2022-06-2023:41:29] [ INFO ] [OdontologoDaoH2:112] Buscando el medicamento con id: 2
+[2022-06-2023:41:29] [ INFO ] [OdontologoDaoH2:121] buscando un odontologo con id: 2
+[2022-06-2023:42:36] [ INFO ] [OdontologoDaoH2:25] Guardando el odontologo: Odontologo{id=0, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2023:42:36] [ INFO ] [OdontologoDaoH2:37] nuevo odontologo ingresado: Odontologo{id=3, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2023:42:36] [ INFO ] [OdontologoDaoH2:112] Buscando el medicamento con id: 3
+[2022-06-2023:42:36] [ INFO ] [OdontologoDaoH2:121] buscando un odontologo con id: 3
+[2022-06-2023:46:06] [ INFO ] [OdontologoDaoH2:25] Guardando el odontologo: Odontologo{id=0, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2023:46:06] [ INFO ] [OdontologoDaoH2:37] nuevo odontologo ingresado: Odontologo{id=4, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2023:46:06] [ INFO ] [OdontologoDaoH2:112] Buscando el medicamento con id: 4
+[2022-06-2023:46:06] [ INFO ] [OdontologoDaoH2:121] buscando un odontologo con id: 4
+[2022-06-2023:47:10] [ INFO ] [OdontologoDaoH2:25] Guardando el odontologo: Odontologo{id=0, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2023:47:11] [ INFO ] [OdontologoDaoH2:37] nuevo odontologo ingresado: Odontologo{id=5, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2023:47:11] [ INFO ] [OdontologoDaoH2:112] Buscando el medicamento con id: 5
+[2022-06-2023:47:11] [ INFO ] [OdontologoDaoH2:121] buscando un odontologo con id: 5
+[2022-06-2023:47:11] [ INFO ] [OdontologoDaoH2:25] Guardando el odontologo: Odontologo{id=0, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2023:47:11] [ INFO ] [OdontologoDaoH2:37] nuevo odontologo ingresado: Odontologo{id=6, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2023:47:11] [ INFO ] [OdontologoDaoH2:25] Guardando el odontologo: Odontologo{id=0, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2023:47:11] [ INFO ] [OdontologoDaoH2:37] nuevo odontologo ingresado: Odontologo{id=7, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2023:47:11] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2023:47:11] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2023:47:11] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2023:47:11] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2023:47:11] [ INFO ] [OdontologoDaoH2:54] eliminando un odontologo
+[2022-06-2023:47:11] [ INFO ] [OdontologoDaoH2:60] se elimino el odontologo con id: 6
+[2022-06-2023:47:11] [ INFO ] [OdontologoDaoH2:54] eliminando un odontologo
+[2022-06-2023:47:11] [ INFO ] [OdontologoDaoH2:60] se elimino el odontologo con id: 7
+[2022-06-2023:47:11] [ INFO ] [OdontologoDaoH2:25] Guardando el odontologo: Odontologo{id=0, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2023:47:11] [ INFO ] [OdontologoDaoH2:37] nuevo odontologo ingresado: Odontologo{id=8, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2023:47:11] [ INFO ] [OdontologoDaoH2:54] eliminando un odontologo
+[2022-06-2023:47:11] [ INFO ] [OdontologoDaoH2:60] se elimino el odontologo con id: 8
+[2022-06-2023:47:11] [ INFO ] [OdontologoDaoH2:112] Buscando el medicamento con id: 8
+[2022-06-2023:47:11] [ INFO ] [OdontologoDaoH2:121] buscando un odontologo con id: 8
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:25] Guardando el odontologo: Odontologo{id=0, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:37] nuevo odontologo ingresado: Odontologo{id=9, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:112] Buscando el medicamento con id: 9
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:121] buscando un odontologo con id: 9
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:131] Sentencia SELECT ejecutada!!
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:144] Obtenido el odontologo: Odontologo{id=9, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:54] eliminando un odontologo
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:60] se elimino el odontologo con id: 9
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:25] Guardando el odontologo: Odontologo{id=0, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:37] nuevo odontologo ingresado: Odontologo{id=10, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:25] Guardando el odontologo: Odontologo{id=0, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:37] nuevo odontologo ingresado: Odontologo{id=11, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:54] eliminando un odontologo
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:60] se elimino el odontologo con id: 10
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:54] eliminando un odontologo
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:60] se elimino el odontologo con id: 11
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:25] Guardando el odontologo: Odontologo{id=0, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:37] nuevo odontologo ingresado: Odontologo{id=12, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:54] eliminando un odontologo
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:60] se elimino el odontologo con id: 12
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:112] Buscando el medicamento con id: 12
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:121] buscando un odontologo con id: 12
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:131] Sentencia SELECT ejecutada!!
+[2022-06-2023:58:56] [ INFO ] [OdontologoDaoH2:144] Obtenido el odontologo: null
+[2022-06-2100:05:51] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2100:05:51] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2100:08:41] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2100:08:41] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2100:08:45] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2100:08:45] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2100:09:10] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2100:09:10] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2100:09:12] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2100:09:12] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2100:09:13] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2100:09:13] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2100:13:19] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2100:13:19] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2100:13:20] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2100:13:20] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2100:13:30] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2100:13:30] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2100:13:32] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2100:13:32] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2100:14:33] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2100:14:33] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2100:36:30] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2100:36:30] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2100:36:32] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2100:36:32] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2100:45:48] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2100:45:48] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2100:45:52] [ INFO ] [OdontologoDaoH2:155] Listando los odontologos
+[2022-06-2100:45:52] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=13, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 13
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 13
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=13, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 13
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=14, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=15, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:159] Conexion establecida!!
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:159] Conexion establecida!!
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 14
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 15
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=16, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 16
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 16
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 16
+[2022-06-2100:51:09] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2100:51:10] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: null
+[2022-06-2100:57:41] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2100:57:41] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=17, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2100:57:41] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 17
+[2022-06-2100:57:41] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 17
+[2022-06-2100:57:41] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2100:57:41] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=17, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2100:57:41] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2100:57:41] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 17
+[2022-06-2100:57:41] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2100:57:41] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=18, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2100:57:41] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2100:57:41] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=19, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2100:57:41] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2100:57:41] [ INFO ] [OdontologoDaoH2:159] Conexion establecida!!
+[2022-06-2100:57:41] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2100:57:41] [ INFO ] [OdontologoDaoH2:159] Conexion establecida!!
+[2022-06-2100:57:42] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2100:57:42] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 18
+[2022-06-2100:57:42] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2100:57:42] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 19
+[2022-06-2100:57:42] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2100:57:42] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=20, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2100:57:42] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2100:57:42] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 20
+[2022-06-2100:57:42] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 20
+[2022-06-2100:57:42] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 20
+[2022-06-2100:57:42] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2100:57:42] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: null
+[2022-06-2101:01:28] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2101:01:28] [ INFO ] [OdontologoDaoH2:159] Conexion establecida!!
+[2022-06-2101:01:30] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2101:01:30] [ INFO ] [OdontologoDaoH2:159] Conexion establecida!!
+[2022-06-2117:51:17] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2117:51:17] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=21, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2117:51:17] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 21
+[2022-06-2117:51:17] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 21
+[2022-06-2117:51:17] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2117:51:17] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=21, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2117:51:17] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2117:51:17] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 21
+[2022-06-2117:51:17] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2117:51:17] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=22, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2117:51:17] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2117:51:17] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=23, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2117:51:17] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2117:51:17] [ INFO ] [OdontologoDaoH2:159] Conexion establecida!!
+[2022-06-2117:51:18] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2117:51:18] [ INFO ] [OdontologoDaoH2:159] Conexion establecida!!
+[2022-06-2117:51:18] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2117:51:18] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 22
+[2022-06-2117:51:18] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2117:51:18] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 23
+[2022-06-2117:51:18] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2117:51:18] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=24, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2117:51:18] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2117:51:18] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 24
+[2022-06-2117:51:18] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 24
+[2022-06-2117:51:18] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 24
+[2022-06-2117:51:18] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2117:51:18] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: null
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=25, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 25
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 25
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=25, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 25
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=26, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=27, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:159] Conexion establecida!!
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:159] Conexion establecida!!
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 26
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 27
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=28, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 28
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 28
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 28
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2117:53:48] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: null
+[2022-06-2117:55:58] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2117:55:58] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=29, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2117:55:58] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 29
+[2022-06-2117:55:59] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 29
+[2022-06-2117:55:59] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2117:55:59] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=29, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2117:55:59] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2117:55:59] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 29
+[2022-06-2117:55:59] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2117:55:59] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=30, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2117:55:59] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2117:55:59] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=31, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2117:55:59] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2117:55:59] [ INFO ] [OdontologoDaoH2:159] Conexion establecida!!
+[2022-06-2117:55:59] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2117:55:59] [ INFO ] [OdontologoDaoH2:159] Conexion establecida!!
+[2022-06-2117:55:59] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2117:55:59] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 30
+[2022-06-2117:55:59] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2117:55:59] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 31
+[2022-06-2117:55:59] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2117:55:59] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=32, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2117:55:59] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2117:55:59] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 32
+[2022-06-2117:55:59] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 32
+[2022-06-2117:55:59] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 32
+[2022-06-2117:55:59] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2117:55:59] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: null
+[2022-06-2117:58:23] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=33, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 33
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 33
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=33, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 33
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=34, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=35, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:159] Conexion establecida!!
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:159] Conexion establecida!!
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 34
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 35
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=36, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 36
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 36
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 36
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2117:58:24] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: null
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=37, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 37
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 37
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=37, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 37
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=38, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=39, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:159] Conexion establecida!!
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:159] Conexion establecida!!
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 38
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 39
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=40, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 40
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 40
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 40
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:00:55] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: null
+[2022-06-2118:06:28] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:06:28] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=41, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:06:28] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 41
+[2022-06-2118:06:28] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 41
+[2022-06-2118:06:28] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:06:28] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=41, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:06:28] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:06:28] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 41
+[2022-06-2118:06:28] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2118:06:28] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=42, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2118:06:28] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2118:06:28] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=43, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2118:06:29] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2118:06:29] [ INFO ] [OdontologoDaoH2:159] Conexion establecida!!
+[2022-06-2118:06:29] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2118:06:29] [ INFO ] [OdontologoDaoH2:159] Conexion establecida!!
+[2022-06-2118:06:29] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:06:29] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 42
+[2022-06-2118:06:29] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:06:29] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 43
+[2022-06-2118:06:29] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:06:29] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=44, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:06:29] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:06:29] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 44
+[2022-06-2118:06:29] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 44
+[2022-06-2118:06:29] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 44
+[2022-06-2118:06:29] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:06:29] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: null
+[2022-06-2118:13:13] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:13:13] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=45, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:13:13] [ INFO ] [OdontologoDaoH2:112] Buscando el medicamento con id: 45
+[2022-06-2118:13:13] [ INFO ] [OdontologoDaoH2:119] buscando un odontologo con id: 45
+[2022-06-2118:13:13] [ INFO ] [OdontologoDaoH2:129] Sentencia SELECT ejecutada!!
+[2022-06-2118:13:13] [ INFO ] [OdontologoDaoH2:142] Obtenido el odontologo: Odontologo{id=45, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:13:13] [ INFO ] [OdontologoDaoH2:54] eliminando un odontologo
+[2022-06-2118:13:13] [ INFO ] [OdontologoDaoH2:60] se elimino el odontologo con id: 45
+[2022-06-2118:13:13] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2118:13:13] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=46, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2118:13:13] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2118:13:13] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=47, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2118:13:13] [ INFO ] [OdontologoDaoH2:153] Listando los odontologos
+[2022-06-2118:13:13] [ INFO ] [OdontologoDaoH2:158] Conexion establecida!!
+[2022-06-2118:13:13] [ INFO ] [OdontologoDaoH2:165] Sentencia SELECT ejecutada!!
+[2022-06-2118:13:13] [ INFO ] [OdontologoDaoH2:153] Listando los odontologos
+[2022-06-2118:13:13] [ INFO ] [OdontologoDaoH2:158] Conexion establecida!!
+[2022-06-2118:13:14] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:13:14] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=48, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:13:14] [ INFO ] [OdontologoDaoH2:54] eliminando un odontologo
+[2022-06-2118:13:14] [ INFO ] [OdontologoDaoH2:60] se elimino el odontologo con id: 48
+[2022-06-2118:13:14] [ INFO ] [OdontologoDaoH2:112] Buscando el medicamento con id: 48
+[2022-06-2118:13:14] [ INFO ] [OdontologoDaoH2:119] buscando un odontologo con id: 48
+[2022-06-2118:13:14] [ INFO ] [OdontologoDaoH2:129] Sentencia SELECT ejecutada!!
+[2022-06-2118:13:14] [ INFO ] [OdontologoDaoH2:142] Obtenido el odontologo: null
+[2022-06-2118:14:21] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:14:21] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=49, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:14:21] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 49
+[2022-06-2118:14:21] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 49
+[2022-06-2118:14:21] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:14:21] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=49, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:14:21] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:14:21] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 49
+[2022-06-2118:14:21] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2118:14:21] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=50, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2118:14:21] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2118:14:21] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=51, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2118:14:21] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2118:14:21] [ INFO ] [OdontologoDaoH2:159] Conexion establecida!!
+[2022-06-2118:14:21] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2118:14:21] [ INFO ] [OdontologoDaoH2:159] Conexion establecida!!
+[2022-06-2118:14:21] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:14:21] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 50
+[2022-06-2118:14:21] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:14:21] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 51
+[2022-06-2118:14:22] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:14:22] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=52, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:14:22] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:14:22] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 52
+[2022-06-2118:14:22] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 52
+[2022-06-2118:14:22] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 52
+[2022-06-2118:14:22] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:14:22] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: null
+[2022-06-2118:20:13] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:20:13] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=53, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:20:13] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 53
+[2022-06-2118:20:13] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 53
+[2022-06-2118:20:13] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:20:13] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=53, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:20:13] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:20:13] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 53
+[2022-06-2118:20:13] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2118:20:13] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=54, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2118:20:13] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2118:20:13] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=55, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2118:20:13] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2118:20:13] [ INFO ] [OdontologoDaoH2:159] Conexion establecida!!
+[2022-06-2118:20:13] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:20:13] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=56, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:20:13] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:20:13] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 56
+[2022-06-2118:20:13] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 56
+[2022-06-2118:20:13] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 56
+[2022-06-2118:20:13] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:20:13] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: null
+[2022-06-2118:25:36] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:25:36] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=57, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 57
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 57
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=57, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 57
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=58, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=59, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:159] Conexion establecida!!
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:159] Conexion establecida!!
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 58
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 59
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=60, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 60
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 60
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 60
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:25:37] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: null
+[2022-06-2118:33:38] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:33:38] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=61, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:33:38] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 61
+[2022-06-2118:33:38] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 61
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=61, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 61
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=62, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=63, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:167] Sentencia SELECT ejecutada!!
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:167] Sentencia SELECT ejecutada!!
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 62
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 63
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=64, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 64
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 64
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 64
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:33:39] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: null
+[2022-06-2118:35:44] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2118:35:45] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2118:35:45] [ INFO ] [OdontologoDaoH2:167] Sentencia SELECT ejecutada!!
+[2022-06-2118:44:41] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=4567, nombre='Ismael', apellido='Carvajal'}
+[2022-06-2118:44:41] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=65, matricula=4567, nombre='Ismael', apellido='Carvajal'}
+[2022-06-2118:44:43] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2118:44:43] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2118:44:44] [ INFO ] [OdontologoDaoH2:168] Sentencia SELECT ejecutada!!
+[2022-06-2118:44:44] [ INFO ] [OdontologoDaoH2:180] nuevo odontologo ingresado: null
+[2022-06-2118:45:01] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 3
+[2022-06-2118:45:01] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 3
+[2022-06-2118:45:01] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:45:01] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=3, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:45:01] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:45:01] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 3
+[2022-06-2118:45:04] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 3
+[2022-06-2118:45:04] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 3
+[2022-06-2118:45:04] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:45:04] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=3, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:45:04] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:45:04] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 3
+[2022-06-2118:45:06] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 4
+[2022-06-2118:45:06] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 4
+[2022-06-2118:45:06] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:45:06] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=4, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:45:06] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:45:06] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 4
+[2022-06-2118:45:06] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 4
+[2022-06-2118:45:06] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 4
+[2022-06-2118:45:06] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:45:06] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=4, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:45:06] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:45:06] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 4
+[2022-06-2118:45:07] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 5
+[2022-06-2118:45:07] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 5
+[2022-06-2118:45:07] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:45:07] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=5, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:45:07] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:45:07] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 5
+[2022-06-2118:45:12] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 5
+[2022-06-2118:45:12] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 5
+[2022-06-2118:45:12] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:45:12] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=5, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:45:12] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:45:12] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 5
+[2022-06-2118:45:13] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 46
+[2022-06-2118:45:13] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 46
+[2022-06-2118:45:13] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:45:13] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=46, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2118:45:13] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:45:13] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 46
+[2022-06-2118:45:14] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 46
+[2022-06-2118:45:14] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 46
+[2022-06-2118:45:14] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:45:14] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=46, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2118:45:14] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:45:14] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 46
+[2022-06-2118:45:15] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 47
+[2022-06-2118:45:15] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 47
+[2022-06-2118:45:15] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:45:15] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=47, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2118:45:15] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:45:15] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 47
+[2022-06-2118:45:16] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 47
+[2022-06-2118:45:16] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 47
+[2022-06-2118:45:16] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:45:16] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=47, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2118:45:16] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:45:16] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 47
+[2022-06-2118:45:16] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 54
+[2022-06-2118:45:16] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 54
+[2022-06-2118:45:16] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:45:16] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=54, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2118:45:16] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:45:16] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 54
+[2022-06-2118:45:17] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 54
+[2022-06-2118:45:17] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 54
+[2022-06-2118:45:17] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:45:17] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=54, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2118:45:17] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:45:17] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 54
+[2022-06-2118:45:38] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2118:45:38] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2118:45:38] [ INFO ] [OdontologoDaoH2:168] Sentencia SELECT ejecutada!!
+[2022-06-2118:45:38] [ INFO ] [OdontologoDaoH2:180] nuevo odontologo ingresado: Odontologo{id=54, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2118:46:02] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:46:02] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2118:46:02] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=66, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 66
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 66
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=66, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 66
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=67, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=68, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:168] Sentencia SELECT ejecutada!!
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:180] nuevo odontologo ingresado: null
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:168] Sentencia SELECT ejecutada!!
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:180] nuevo odontologo ingresado: null
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 67
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 68
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=69, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 69
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 69
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 69
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:46:53] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: null
+[2022-06-2118:47:33] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:47:33] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=70, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:47:33] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 70
+[2022-06-2118:47:33] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 70
+[2022-06-2118:47:33] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:47:33] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=70, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2118:47:33] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:47:33] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 70
+[2022-06-2118:49:02] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2118:49:03] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2118:49:03] [ INFO ] [OdontologoDaoH2:168] Sentencia SELECT ejecutada!!
+[2022-06-2118:49:03] [ INFO ] [OdontologoDaoH2:180] nuevo odontologo ingresado: null
+[2022-06-2118:49:13] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2118:49:13] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2118:49:13] [ INFO ] [OdontologoDaoH2:168] Sentencia SELECT ejecutada!!
+[2022-06-2118:49:13] [ INFO ] [OdontologoDaoH2:180] nuevo odontologo ingresado: null
+[2022-06-2118:49:16] [ INFO ] [OdontologoDaoH2:113] Buscando el medicamento con id: 55
+[2022-06-2118:49:16] [ INFO ] [OdontologoDaoH2:120] buscando un odontologo con id: 55
+[2022-06-2118:49:16] [ INFO ] [OdontologoDaoH2:130] Sentencia SELECT ejecutada!!
+[2022-06-2118:49:16] [ INFO ] [OdontologoDaoH2:143] Obtenido el odontologo: Odontologo{id=55, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2118:49:16] [ INFO ] [OdontologoDaoH2:55] eliminando un odontologo
+[2022-06-2118:49:16] [ INFO ] [OdontologoDaoH2:61] se elimino el odontologo con id: 55
+[2022-06-2118:51:09] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2118:51:11] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2118:51:11] [ INFO ] [OdontologoDaoH2:168] Sentencia SELECT ejecutada!!
+[2022-06-2118:51:11] [ INFO ] [OdontologoDaoH2:180] nuevo odontologo ingresado: null
+[2022-06-2118:51:11] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2118:51:12] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2118:51:12] [ INFO ] [OdontologoDaoH2:168] Sentencia SELECT ejecutada!!
+[2022-06-2118:51:12] [ INFO ] [OdontologoDaoH2:180] nuevo odontologo ingresado: null
+[2022-06-2118:51:39] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2118:51:39] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2118:51:39] [ INFO ] [OdontologoDaoH2:168] Sentencia SELECT ejecutada!!
+[2022-06-2118:51:39] [ INFO ] [OdontologoDaoH2:180] nuevo odontologo ingresado: null
+[2022-06-2119:02:55] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2119:02:57] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2119:02:57] [ INFO ] [OdontologoDaoH2:168] Sentencia SELECT ejecutada!!
+[2022-06-2119:02:57] [ INFO ] [OdontologoDaoH2:180] nuevo odontologo ingresado: null
+[2022-06-2119:03:23] [ INFO ] [OdontologoDaoH2:154] Listando los odontologos
+[2022-06-2119:03:24] [ INFO ] [OdontologoDaoH2:160] Conexion establecida!!
+[2022-06-2119:03:24] [ INFO ] [OdontologoDaoH2:168] Sentencia SELECT ejecutada!!
+[2022-06-2119:03:24] [ INFO ] [OdontologoDaoH2:180] nuevo odontologo ingresado: null
+[2022-06-2119:07:21] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=Lopez, nombre='Rosalba', apellido='Maria'}
+[2022-06-2119:07:21] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=71, matricula=Lopez, nombre='Rosalba', apellido='Maria'}
+[2022-06-2119:08:47] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=4598, nombre='Gaviria', apellido='Salma'}
+[2022-06-2119:08:47] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=72, matricula=4598, nombre='Gaviria', apellido='Salma'}
+[2022-06-2119:08:52] [ INFO ] [OdontologoDaoH2:161] Listando los odontologos
+[2022-06-2119:08:52] [ INFO ] [OdontologoDaoH2:167] Conexion establecida!!
+[2022-06-2119:08:52] [ INFO ] [OdontologoDaoH2:175] Sentencia SELECT ejecutada!!
+[2022-06-2119:08:52] [ INFO ] [OdontologoDaoH2:187] nuevo odontologo ingresado: null
+[2022-06-2119:09:18] [ INFO ] [OdontologoDaoH2:161] Listando los odontologos
+[2022-06-2119:09:18] [ INFO ] [OdontologoDaoH2:167] Conexion establecida!!
+[2022-06-2119:09:18] [ INFO ] [OdontologoDaoH2:175] Sentencia SELECT ejecutada!!
+[2022-06-2119:09:18] [ INFO ] [OdontologoDaoH2:187] nuevo odontologo ingresado: null
+[2022-06-2119:09:23] [ INFO ] [OdontologoDaoH2:161] Listando los odontologos
+[2022-06-2119:09:23] [ INFO ] [OdontologoDaoH2:167] Conexion establecida!!
+[2022-06-2119:09:23] [ INFO ] [OdontologoDaoH2:175] Sentencia SELECT ejecutada!!
+[2022-06-2119:09:23] [ INFO ] [OdontologoDaoH2:187] nuevo odontologo ingresado: null
+[2022-06-2119:09:50] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=5678, nombre='María', apellido='Carvajal'}
+[2022-06-2119:09:50] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=73, matricula=5678, nombre='María', apellido='Carvajal'}
+[2022-06-2119:09:52] [ INFO ] [OdontologoDaoH2:161] Listando los odontologos
+[2022-06-2119:09:52] [ INFO ] [OdontologoDaoH2:167] Conexion establecida!!
+[2022-06-2119:09:52] [ INFO ] [OdontologoDaoH2:175] Sentencia SELECT ejecutada!!
+[2022-06-2119:09:52] [ INFO ] [OdontologoDaoH2:187] nuevo odontologo ingresado: null
+[2022-06-2119:10:28] [ INFO ] [OdontologoDaoH2:161] Listando los odontologos
+[2022-06-2119:10:28] [ INFO ] [OdontologoDaoH2:167] Conexion establecida!!
+[2022-06-2119:10:28] [ INFO ] [OdontologoDaoH2:175] Sentencia SELECT ejecutada!!
+[2022-06-2119:10:28] [ INFO ] [OdontologoDaoH2:187] nuevo odontologo ingresado: null
+[2022-06-2119:10:47] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=5689745, nombre='Lucia', apellido='Martinez'}
+[2022-06-2119:10:47] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=74, matricula=5689745, nombre='Lucia', apellido='Martinez'}
+[2022-06-2119:10:49] [ INFO ] [OdontologoDaoH2:161] Listando los odontologos
+[2022-06-2119:10:49] [ INFO ] [OdontologoDaoH2:167] Conexion establecida!!
+[2022-06-2119:10:49] [ INFO ] [OdontologoDaoH2:175] Sentencia SELECT ejecutada!!
+[2022-06-2119:10:49] [ INFO ] [OdontologoDaoH2:187] nuevo odontologo ingresado: null
+[2022-06-2119:11:42] [ INFO ] [OdontologoDaoH2:120] Buscando el medicamento con id: 74
+[2022-06-2119:11:42] [ INFO ] [OdontologoDaoH2:127] buscando un odontologo con id: 74
+[2022-06-2119:11:42] [ INFO ] [OdontologoDaoH2:137] Sentencia SELECT ejecutada!!
+[2022-06-2119:11:42] [ INFO ] [OdontologoDaoH2:150] Obtenido el odontologo: Odontologo{id=74, matricula=5689745, nombre='Lucia', apellido='Martinez'}
+[2022-06-2119:11:42] [ INFO ] [OdontologoDaoH2:62] eliminando un odontologo
+[2022-06-2119:11:42] [ INFO ] [OdontologoDaoH2:68] se elimino el odontologo con id: 74
+[2022-06-2119:11:45] [ INFO ] [OdontologoDaoH2:120] Buscando el medicamento con id: 73
+[2022-06-2119:11:45] [ INFO ] [OdontologoDaoH2:127] buscando un odontologo con id: 73
+[2022-06-2119:11:45] [ INFO ] [OdontologoDaoH2:137] Sentencia SELECT ejecutada!!
+[2022-06-2119:11:45] [ INFO ] [OdontologoDaoH2:150] Obtenido el odontologo: Odontologo{id=73, matricula=5678, nombre='María', apellido='Carvajal'}
+[2022-06-2119:11:45] [ INFO ] [OdontologoDaoH2:62] eliminando un odontologo
+[2022-06-2119:11:45] [ INFO ] [OdontologoDaoH2:68] se elimino el odontologo con id: 73
+[2022-06-2119:17:07] [ INFO ] [OdontologoDaoH2:159] Listando los odontologos
+[2022-06-2119:17:09] [ INFO ] [OdontologoDaoH2:165] Conexion establecida!!
+[2022-06-2119:17:09] [ INFO ] [OdontologoDaoH2:173] Sentencia SELECT ejecutada!!
+[2022-06-2119:17:09] [ INFO ] [OdontologoDaoH2:185] nuevo odontologo ingresado: null
+[2022-06-2119:17:16] [ INFO ] [OdontologoDaoH2:159] Listando los odontologos
+[2022-06-2119:17:16] [ INFO ] [OdontologoDaoH2:165] Conexion establecida!!
+[2022-06-2119:17:16] [ INFO ] [OdontologoDaoH2:173] Sentencia SELECT ejecutada!!
+[2022-06-2119:17:16] [ INFO ] [OdontologoDaoH2:185] nuevo odontologo ingresado: null
+[2022-06-2119:17:37] [ INFO ] [OdontologoDaoH2:159] Listando los odontologos
+[2022-06-2119:17:37] [ INFO ] [OdontologoDaoH2:165] Conexion establecida!!
+[2022-06-2119:17:37] [ INFO ] [OdontologoDaoH2:173] Sentencia SELECT ejecutada!!
+[2022-06-2119:17:37] [ INFO ] [OdontologoDaoH2:185] nuevo odontologo ingresado: null
+[2022-06-2119:18:42] [ INFO ] [OdontologoDaoH2:159] Listando los odontologos
+[2022-06-2119:18:42] [ INFO ] [OdontologoDaoH2:165] Conexion establecida!!
+[2022-06-2119:18:42] [ INFO ] [OdontologoDaoH2:173] Sentencia SELECT ejecutada!!
+[2022-06-2119:18:42] [ INFO ] [OdontologoDaoH2:185] nuevo odontologo ingresado: null
+[2022-06-2119:19:36] [ INFO ] [OdontologoDaoH2:159] Listando los odontologos
+[2022-06-2119:19:36] [ INFO ] [OdontologoDaoH2:165] Conexion establecida!!
+[2022-06-2119:19:36] [ INFO ] [OdontologoDaoH2:173] Sentencia SELECT ejecutada!!
+[2022-06-2119:19:36] [ INFO ] [OdontologoDaoH2:185] nuevo odontologo ingresado: null
+[2022-06-2119:19:56] [ INFO ] [OdontologoDaoH2:159] Listando los odontologos
+[2022-06-2119:19:57] [ INFO ] [OdontologoDaoH2:165] Conexion establecida!!
+[2022-06-2119:19:57] [ INFO ] [OdontologoDaoH2:173] Sentencia SELECT ejecutada!!
+[2022-06-2119:19:57] [ INFO ] [OdontologoDaoH2:185] nuevo odontologo ingresado: null
+[2022-06-2119:21:41] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=000111, nombre='Tito', apellido='Cardenas'}
+[2022-06-2119:21:41] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=75, matricula=000111, nombre='Tito', apellido='Cardenas'}
+[2022-06-2119:21:42] [ INFO ] [OdontologoDaoH2:160] Listando los odontologos
+[2022-06-2119:21:43] [ INFO ] [OdontologoDaoH2:166] Conexion establecida!!
+[2022-06-2119:21:43] [ INFO ] [OdontologoDaoH2:174] Sentencia SELECT ejecutada!!
+[2022-06-2119:21:43] [ INFO ] [OdontologoDaoH2:186] nuevo odontologo ingresado: null
+[2022-06-2119:22:06] [ INFO ] [OdontologoDaoH2:160] Listando los odontologos
+[2022-06-2119:22:06] [ INFO ] [OdontologoDaoH2:166] Conexion establecida!!
+[2022-06-2119:22:06] [ INFO ] [OdontologoDaoH2:174] Sentencia SELECT ejecutada!!
+[2022-06-2119:22:06] [ INFO ] [OdontologoDaoH2:186] nuevo odontologo ingresado: null
+[2022-06-2119:22:40] [ INFO ] [OdontologoDaoH2:160] Listando los odontologos
+[2022-06-2119:22:40] [ INFO ] [OdontologoDaoH2:166] Conexion establecida!!
+[2022-06-2119:22:40] [ INFO ] [OdontologoDaoH2:174] Sentencia SELECT ejecutada!!
+[2022-06-2119:22:40] [ INFO ] [OdontologoDaoH2:186] nuevo odontologo ingresado: null
+[2022-06-2119:23:12] [ INFO ] [OdontologoDaoH2:160] Listando los odontologos
+[2022-06-2119:23:12] [ INFO ] [OdontologoDaoH2:166] Conexion establecida!!
+[2022-06-2119:23:12] [ INFO ] [OdontologoDaoH2:174] Sentencia SELECT ejecutada!!
+[2022-06-2119:23:12] [ INFO ] [OdontologoDaoH2:186] nuevo odontologo ingresado: null
+[2022-06-2119:24:18] [ INFO ] [OdontologoDaoH2:26] Guardando el odontologo: Odontologo{id=0, matricula=11111, nombre='Hernando', apellido='Gutierrez'}
+[2022-06-2119:24:18] [ INFO ] [OdontologoDaoH2:38] nuevo odontologo ingresado: Odontologo{id=76, matricula=11111, nombre='Hernando', apellido='Gutierrez'}
+[2022-06-2119:24:25] [ INFO ] [OdontologoDaoH2:160] Listando los odontologos
+[2022-06-2119:24:25] [ INFO ] [OdontologoDaoH2:166] Conexion establecida!!
+[2022-06-2119:24:25] [ INFO ] [OdontologoDaoH2:174] Sentencia SELECT ejecutada!!
+[2022-06-2119:24:25] [ INFO ] [OdontologoDaoH2:186] nuevo odontologo ingresado: null
+[2022-06-2119:28:02] [ INFO ] [OdontologoDaoH2:160] Listando los odontologos
+[2022-06-2119:28:02] [ INFO ] [OdontologoDaoH2:166] Conexion establecida!!
+[2022-06-2119:28:02] [ INFO ] [OdontologoDaoH2:174] Sentencia SELECT ejecutada!!
+[2022-06-2119:28:02] [ INFO ] [OdontologoDaoH2:186] nuevo odontologo ingresado: null
+[2022-06-2119:28:20] [ INFO ] [OdontologoDaoH2:160] Listando los odontologos
+[2022-06-2119:28:20] [ INFO ] [OdontologoDaoH2:166] Conexion establecida!!
+[2022-06-2119:28:20] [ INFO ] [OdontologoDaoH2:174] Sentencia SELECT ejecutada!!
+[2022-06-2119:28:20] [ INFO ] [OdontologoDaoH2:186] nuevo odontologo ingresado: null
+[2022-06-2119:30:27] [ INFO ] [OdontologoDaoH2:37] nuevo odontologo ingresado: Odontologo{id=77, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:118] Buscando el medicamento con id: 77
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:125] buscando un odontologo con id: 77
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:135] Sentencia SELECT ejecutada!!
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:148] Obtenido el odontologo: Odontologo{id=77, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:60] eliminando un odontologo
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:66] se elimino el odontologo con id: 77
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:37] nuevo odontologo ingresado: Odontologo{id=78, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:37] nuevo odontologo ingresado: Odontologo{id=79, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:159] Listando los odontologos
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:165] Conexion establecida!!
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:173] Sentencia SELECT ejecutada!!
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:185] nuevo odontologo ingresado: null
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:159] Listando los odontologos
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:165] Conexion establecida!!
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:173] Sentencia SELECT ejecutada!!
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:185] nuevo odontologo ingresado: null
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:60] eliminando un odontologo
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:66] se elimino el odontologo con id: 78
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:60] eliminando un odontologo
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:66] se elimino el odontologo con id: 79
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:37] nuevo odontologo ingresado: Odontologo{id=80, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:60] eliminando un odontologo
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:66] se elimino el odontologo con id: 80
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:118] Buscando el medicamento con id: 80
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:125] buscando un odontologo con id: 80
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:135] Sentencia SELECT ejecutada!!
+[2022-06-2119:30:28] [ INFO ] [OdontologoDaoH2:148] Obtenido el odontologo: null
+[2022-06-2119:31:39] [ INFO ] [OdontologoDaoH2:37] nuevo odontologo ingresado: Odontologo{id=81, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2119:31:39] [ INFO ] [OdontologoDaoH2:118] Buscando el medicamento con id: 81
+[2022-06-2119:31:39] [ INFO ] [OdontologoDaoH2:125] buscando un odontologo con id: 81
+[2022-06-2119:31:39] [ INFO ] [OdontologoDaoH2:135] Sentencia SELECT ejecutada!!
+[2022-06-2119:31:39] [ INFO ] [OdontologoDaoH2:148] Obtenido el odontologo: Odontologo{id=81, matricula=001, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2119:31:39] [ INFO ] [OdontologoDaoH2:60] eliminando un odontologo
+[2022-06-2119:31:39] [ INFO ] [OdontologoDaoH2:66] se elimino el odontologo con id: 81
+[2022-06-2119:31:40] [ INFO ] [OdontologoDaoH2:37] nuevo odontologo ingresado: Odontologo{id=82, matricula=003, nombre='Nicolas', apellido='Avigliano'}
+[2022-06-2119:31:40] [ INFO ] [OdontologoDaoH2:37] nuevo odontologo ingresado: Odontologo{id=83, matricula=004, nombre='Violeta', apellido='Matorras'}
+[2022-06-2119:31:40] [ INFO ] [OdontologoDaoH2:159] Listando los odontologos
+[2022-06-2119:31:40] [ INFO ] [OdontologoDaoH2:165] Conexion establecida!!
+[2022-06-2119:31:40] [ INFO ] [OdontologoDaoH2:173] Sentencia SELECT ejecutada!!
+[2022-06-2119:31:40] [ INFO ] [OdontologoDaoH2:185] nuevo odontologo ingresado: null
+[2022-06-2119:31:40] [ INFO ] [OdontologoDaoH2:159] Listando los odontologos
+[2022-06-2119:31:40] [ INFO ] [OdontologoDaoH2:165] Conexion establecida!!
+[2022-06-2119:31:40] [ INFO ] [OdontologoDaoH2:173] Sentencia SELECT ejecutada!!
+[2022-06-2119:31:40] [ INFO ] [OdontologoDaoH2:185] nuevo odontologo ingresado: null
+[2022-06-2119:31:40] [ INFO ] [OdontologoDaoH2:60] eliminando un odontologo
+[2022-06-2119:31:40] [ INFO ] [OdontologoDaoH2:66] se elimino el odontologo con id: 82
+[2022-06-2119:31:40] [ INFO ] [OdontologoDaoH2:60] eliminando un odontologo
+[2022-06-2119:31:40] [ INFO ] [OdontologoDaoH2:66] se elimino el odontologo con id: 83
+[2022-06-2119:31:40] [ INFO ] [OdontologoDaoH2:37] nuevo odontologo ingresado: Odontologo{id=84, matricula=002, nombre='Martin', apellido='Rodriguez'}
+[2022-06-2119:31:40] [ INFO ] [OdontologoDaoH2:60] eliminando un odontologo
+[2022-06-2119:31:40] [ INFO ] [OdontologoDaoH2:66] se elimino el odontologo con id: 84
+[2022-06-2119:31:40] [ INFO ] [OdontologoDaoH2:118] Buscando el medicamento con id: 84
+[2022-06-2119:31:40] [ INFO ] [OdontologoDaoH2:125] buscando un odontologo con id: 84
+[2022-06-2119:31:40] [ INFO ] [OdontologoDaoH2:135] Sentencia SELECT ejecutada!!
+[2022-06-2119:31:40] [ INFO ] [OdontologoDaoH2:148] Obtenido el odontologo: null
+[2022-06-2119:33:37] [ INFO ] [OdontologoDaoH2:159] Listando los odontologos
+[2022-06-2119:33:39] [ INFO ] [OdontologoDaoH2:165] Conexion establecida!!
+[2022-06-2119:33:39] [ INFO ] [OdontologoDaoH2:173] Sentencia SELECT ejecutada!!
+[2022-06-2119:33:39] [ INFO ] [OdontologoDaoH2:185] nuevo odontologo ingresado: null
+[2022-06-2119:34:46] [ INFO ] [OdontologoDaoH2:161] Listando los odontologos
+[2022-06-2119:34:47] [ INFO ] [OdontologoDaoH2:167] Conexion establecida!!
+[2022-06-2119:34:47] [ INFO ] [OdontologoDaoH2:175] Sentencia SELECT ejecutada!!
+[2022-06-2119:34:47] [ INFO ] [OdontologoDaoH2:187] nuevo odontologo ingresado: null
+[2022-06-2119:35:11] [ INFO ] [OdontologoDaoH2:161] Listando los odontologos
+[2022-06-2119:35:11] [ INFO ] [OdontologoDaoH2:167] Conexion establecida!!
+[2022-06-2119:35:11] [ INFO ] [OdontologoDaoH2:175] Sentencia SELECT ejecutada!!
+[2022-06-2119:35:11] [ INFO ] [OdontologoDaoH2:187] nuevo odontologo ingresado: null
+[2022-06-2119:35:18] [ INFO ] [OdontologoDaoH2:161] Listando los odontologos
+[2022-06-2119:35:19] [ INFO ] [OdontologoDaoH2:167] Conexion establecida!!
+[2022-06-2119:35:19] [ INFO ] [OdontologoDaoH2:175] Sentencia SELECT ejecutada!!
+[2022-06-2119:35:19] [ INFO ] [OdontologoDaoH2:187] nuevo odontologo ingresado: null
+[2022-06-2119:35:20] [ INFO ] [OdontologoDaoH2:161] Listando los odontologos
+[2022-06-2119:35:20] [ INFO ] [OdontologoDaoH2:167] Conexion establecida!!
+[2022-06-2119:35:20] [ INFO ] [OdontologoDaoH2:175] Sentencia SELECT ejecutada!!
+[2022-06-2119:35:20] [ INFO ] [OdontologoDaoH2:187] nuevo odontologo ingresado: null
+[2022-06-2119:35:49] [ INFO ] [OdontologoDaoH2:161] Listando los odontologos
+[2022-06-2119:35:50] [ INFO ] [OdontologoDaoH2:167] Conexion establecida!!
+[2022-06-2119:35:50] [ INFO ] [OdontologoDaoH2:175] Sentencia SELECT ejecutada!!
+[2022-06-2119:35:50] [ INFO ] [OdontologoDaoH2:187] nuevo odontologo ingresado: null
+[2022-06-2119:35:55] [ INFO ] [OdontologoDaoH2:161] Listando los odontologos
+[2022-06-2119:35:55] [ INFO ] [OdontologoDaoH2:167] Conexion establecida!!
+[2022-06-2119:35:55] [ INFO ] [OdontologoDaoH2:175] Sentencia SELECT ejecutada!!
+[2022-06-2119:35:55] [ INFO ] [OdontologoDaoH2:187] nuevo odontologo ingresado: null
+[2022-06-2119:36:10] [ INFO ] [OdontologoDaoH2:161] Listando los odontologos
+[2022-06-2119:36:10] [ INFO ] [OdontologoDaoH2:167] Conexion establecida!!
+[2022-06-2119:36:10] [ INFO ] [OdontologoDaoH2:175] Sentencia SELECT ejecutada!!
+[2022-06-2119:36:10] [ INFO ] [OdontologoDaoH2:187] nuevo odontologo ingresado: null
+[2022-06-2119:38:01] [ INFO ] [OdontologoDaoH2:160] Listando los odontologos
+[2022-06-2119:38:02] [ INFO ] [OdontologoDaoH2:166] Conexion establecida!!
+[2022-06-2119:38:02] [ INFO ] [OdontologoDaoH2:174] Sentencia SELECT ejecutada!!
+[2022-06-2119:38:02] [ INFO ] [OdontologoDaoH2:186] nuevo odontologo ingresado: null
+[2022-06-2119:38:16] [ INFO ] [OdontologoDaoH2:160] Listando los odontologos
+[2022-06-2119:38:16] [ INFO ] [OdontologoDaoH2:166] Conexion establecida!!
+[2022-06-2119:38:16] [ INFO ] [OdontologoDaoH2:174] Sentencia SELECT ejecutada!!
+[2022-06-2119:38:16] [ INFO ] [OdontologoDaoH2:186] nuevo odontologo ingresado: null
